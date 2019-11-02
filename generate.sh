@@ -1,0 +1,1 @@
+protoc ./02-ServerStreming/proto/greet.proto --go_out=plugins=grpc:.
